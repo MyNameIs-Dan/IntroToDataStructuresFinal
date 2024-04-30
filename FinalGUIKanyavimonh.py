@@ -1,3 +1,27 @@
+"""
+* Name : FinalGUIKanyavimonh
+* Author: Daniel Kanyavimonh
+* Last Modified : 4/29/24
+* Course: CIS 152 - Data Structure
+* Version: 1.0
+* OS: Windows 10
+* IDE: Pycharm 2023.2
+* Copyright : This is my own original work
+* based on specifications issued by our instructor
+* Description : Assignment is a final to showcase what we have learned throughout the semester. My final focuses on
+* a portion of a clincial setting in the lab, where technicians would process orders of patients placed by providers.
+* This file is the GUI or the face of the project, which allows the user to interface and use the code without access to a console.
+* again this is a demonstration of the functionality of what could be done for labs in a clinic or hospital setting.
+* Input: Running the GUI user is given buttons, and there are few text inputs for manual entry.
+* Ouput: Two windows in the GUI show the patient queue, and the supplie list, when processing patients or ordering supplies,
+* the list and queue will update accordingly.
+* Academic Honesty: I attest that this is my original work.
+* I have not used unauthorized source code, either modified or
+* unmodified. I have not given other fellow student(s) access
+* to my program.
+"""
+
+
 import tkinter as tk
 import random
 from tkinter import messagebox, simpledialog
