@@ -1,3 +1,27 @@
+
+
+"""
+* Name : DataStructuresFinalKanyavimonh
+* Author: Daniel Kanyavimonh
+* Last Modified : 4/29/24
+* Course: CIS 152 - Data Structure
+* Version: 1.0
+* OS: Windows 10
+* IDE: Pycharm 2023.2
+* Copyright : This is my own original work
+* based on specifications issued by our instructor
+* Description : Assignment is a final to showcase what we have learned throughout the semester. My final focuses on
+* a portion of a clincial setting in the lab, where technicians would process orders of patients placed by providers.
+* Input: No input driver code/test are provided
+* Ouput: driver code is set to print to console the functions made in the code to show functionality.
+* BigO: O(logn) due to sorting algorithm.
+* Academic Honesty: I attest that this is my original work.
+* I have not used unauthorized source code, either modified or
+* unmodified. I have not given other fellow student(s) access
+* to my program.
+"""
+
+
 class LabTest:
     def __init__(self, name):
         self.name = name
